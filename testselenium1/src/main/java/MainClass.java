@@ -21,24 +21,56 @@ public class MainClass {
 //        driver.navigate().forward();
 
 //        System.out.println(driver.getTitle());
+        //lecture 42
+//        driver.get("https://en.wikipedia.org/wiki/Main_Page");
+//
+//        WebElement link = driver.findElement(By.linkText("Wikipedia store"));
+//        WebElement link2 = driver.findElement(By.partialLinkText("Donate"));
+//        WebElement metacontent = driver.findElement(By.name("ResourceLoaderDynamicStyles"));
+//        WebElement cnotice = driver.findElement(By.className("cnotice"));
+//        WebElement centralNotice = driver.findElement(By.id("centralNotice"));
+//        WebElement script = driver.findElement(By.tagName("script"));
+//        WebElement element = driver.findElement(By.cssSelector("div#p-views h3#p-views-label"));
+//        WebElement xpathlement = driver.findElement(By.xpath("//div[@id='mw-panel']/div[@id='p-logo']"));
 
-        driver.get("https://en.wikipedia.org/wiki/Main_Page");
+        //lecture 43
+//        driver.findElement(By.xpath("//input[@id='searchButton']")).click();
+//
+//        driver.get("http://github.com");
+//        WebElement button = driver.findElement(By.xpath("//form[@class='home-hero-signup js-signup-form']/button"));
+//        System.out.println("button text is: " + button.getText());
+//        if (button.getText().equals("Sign up for GitHub")) {
+//            System.out.println("Success");
+//        } else
+//            System.out.println("False");
+        // button.submit();
+//        driver.get("http://github.com/github");
+//        driver.findElement(By.xpath("//a[text()='Sign in']")).click();
+//        driver.get("http://facebook.com");
+//        driver.findElement(By.xpath("//label[@id=\"loginbutton\"]/input")).submit();
 
-        WebElement link = driver.findElement(By.linkText("Wikipedia store"));
-        WebElement link2 = driver.findElement(By.partialLinkText("Donate"));
-        WebElement metacontent = driver.findElement(By.name("ResourceLoaderDynamicStyles"));
-        WebElement cnotice = driver.findElement(By.className("cnotice"));
-        WebElement centralNotice = driver.findElement(By.id("centralNotice"));
-        WebElement script = driver.findElement(By.tagName("script"));
-        WebElement element = driver.findElement(By.cssSelector("div#p-views h3#p-views-label"));
-        WebElement xpathlement = driver.findElement(By.xpath("//div[@id='mw-panel']/div[@id='p-logo']"));
+        //lecture 44
+//        driver.get("https://en.wikipedia.org/wiki/Main_Page ");
+//        driver.findElement(By.xpath("//input[@id='searchInput']")).sendKeys("Selenium WebDriver");
+//        driver.findElement(By.xpath("//input[@id='searchButton']")).click();
+//        System.out.println(driver.findElement(By.xpath("//input[@id='searchInput']")).getAttribute("value"));
+//        driver.findElement(By.xpath("//div[@id='searchText']/input")).clear();
+
+//        driver.get("http://github.com");
+//        driver.findElement(By.xpath(".//*[@id='user[login]']")).sendKeys("testusername");
+//        driver.findElement(By.xpath(".//*[@id='user[password]']")).sendKeys("testpass");
+//        WebElement button = driver.findElement(By.xpath(".//*[@id='user[password]']"));
+//        button.submit();
+
+        driver.get("http://facebook.com");
+        driver.findElement(By.xpath(".//*[@id='email']")).sendKeys("testname");
+        driver.findElement(By.xpath(".//*[@id='pass']")).sendKeys("testpass");
+        driver.findElement(By.xpath(".//*[@id='u_0_2']")).submit();
+        System.out.println("mail is: " + driver.findElement(By.xpath(".//*[@id='email']")).getAttribute("value"));
+
 
         //System.out.println(link.getText());
-        //System.out.println(link2.getText());
-        // System.out.println(metacontent.getText());
-        // System.out.println(cnotice.getText());
-
-         driver.quit();
+        //driver.quit();
 
 
     }
