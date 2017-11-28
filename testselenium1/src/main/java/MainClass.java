@@ -12,7 +12,9 @@ public class MainClass {
 
         WebDriver driver = new FirefoxDriver();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-        driver.manage().window().setSize(new Dimension(900, 700));
+//        driver.manage().window().setSize(new Dimension(900, 700));
+
+        driver.manage().window().maximize();
 
 //        driver.get("http://localhost:8080/");
 //        driver.navigate().to("http://google.com");
@@ -62,12 +64,20 @@ public class MainClass {
 //        WebElement button = driver.findElement(By.xpath(".//*[@id='user[password]']"));
 //        button.submit();
 
-        driver.get("http://facebook.com");
-        driver.findElement(By.xpath(".//*[@id='email']")).sendKeys("testname");
-        driver.findElement(By.xpath(".//*[@id='pass']")).sendKeys("testpass");
-        driver.findElement(By.xpath(".//*[@id='u_0_2']")).submit();
-        System.out.println("mail is: " + driver.findElement(By.xpath(".//*[@id='email']")).getAttribute("value"));
+//
 
+        //lecture 44
+
+        driver.get("https://en.wikipedia.org/wiki/Main_Page ");
+        WebElement link = driver.findElement(By.xpath("//li[@id='n-aboutsite']/a"));
+        System.out.println("link: " + link.getText());
+        link.click();
+
+        driver.get("http://github.com");
+        driver.findElement(By.xpath("//nav//li[1]//a[1]")).click();
+
+        driver.get("https://www.facebook.com");
+        driver.findElement(By.xpath("//a[text()='Why do I need to provide my birthday?']")).click();
 
         //System.out.println(link.getText());
         //driver.quit();
