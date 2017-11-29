@@ -7,11 +7,14 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import java.util.concurrent.TimeUnit;
 
 public class MainClass {
+
+    private static WebDriver driver;
+
     public static void main(String[] args) {
         System.setProperty("webdriver.gecko.driver", "C:\\projects\\Selenium\\testselenium1\\drivers1\\geckodriver.exe");
 
-        WebDriver driver = new FirefoxDriver();
-        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+        driver = new FirefoxDriver();
+        driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
 //        driver.manage().window().setSize(new Dimension(900, 700));
 
         driver.manage().window().maximize();
@@ -66,22 +69,59 @@ public class MainClass {
 
 //
 
-        //lecture 44
+        //lecture 45
 
-        driver.get("https://en.wikipedia.org/wiki/Main_Page ");
-        WebElement link = driver.findElement(By.xpath("//li[@id='n-aboutsite']/a"));
-        System.out.println("link: " + link.getText());
-        link.click();
-
-        driver.get("http://github.com");
-        driver.findElement(By.xpath("//nav//li[1]//a[1]")).click();
-
-        driver.get("https://www.facebook.com");
-        driver.findElement(By.xpath("//a[text()='Why do I need to provide my birthday?']")).click();
+//        driver.get("https://en.wikipedia.org/wiki/Main_Page ");
+//        WebElement link = driver.findElement(By.xpath("//li[@id='n-aboutsite']/a"));
+//        System.out.println("link: " + link.getText());
+//        link.click();
+//
+//        driver.get("http://github.com");
+//        driver.findElement(By.xpath("//nav//li[1]//a[1]")).click();
+//
+//        driver.get("https://www.facebook.com");
+//        driver.findElement(By.xpath("//a[text()='Why do I need to provide my birthday?']")).click();
 
         //System.out.println(link.getText());
         //driver.quit();
 
+        //lecture 46
+
+        driver.get("https://market.yandex.by");
+        driver.findElement(By.xpath("//a[text()=\"Бытовая техника\"]")).click();
+        driver.findElement(By.xpath("//a[text()=\"Стиральные машины\"]")).click();
+
+        selectCheckbox("BEKO");
+        deselectCheckbox("BEKO");
+        selectCheckbox("ATLANT");
+
+        selectRadiobutton("Самовывоз");
+        selectRadiobutton("С доставкой");
 
     }
+
+    public  static void selectCheckbox(String name){
+        String cbxpath = "//label[text()='%s']/preceding-sibling::span";
+        if (!driver.findElement(By.xpath(String.format(cbxpath, name) + "/input")).isSelected()) {
+            driver.findElement(By.xpath(String.format(cbxpath, name))).click();
+        }
+        System.out.println(driver.findElement(By.xpath(String.format(cbxpath, name) + "/input")).isSelected());
+    }
+
+    public  static void deselectCheckbox(String name) {
+        String cbxpath = "//label[text()='%s']/preceding-sibling::span";
+        if (driver.findElement(By.xpath(String.format(cbxpath, name) + "/input")).isSelected()) {
+            driver.findElement(By.xpath(String.format(cbxpath, name))).click();
+        }
+        System.out.println(driver.findElement(By.xpath(String.format(cbxpath, name) + "/input")).isSelected());
+    }
+
+    public  static void selectRadiobutton(String name){
+        String rbxpath = "//label[text()='%s']/span";
+        if (!driver.findElement(By.xpath(String.format(rbxpath, name) + "/input")).isSelected()) {
+            driver.findElement(By.xpath(String.format(rbxpath, name))).click();
+        }
+        System.out.println(driver.findElement(By.xpath(String.format(rbxpath, name) + "/input")).isSelected());
+    }
+
 }
