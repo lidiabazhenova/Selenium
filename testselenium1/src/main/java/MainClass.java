@@ -4,6 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
+import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 public class MainClass {
@@ -124,21 +125,41 @@ public class MainClass {
 //        System.out.println(driver.findElement(By.xpath(String.format(rbxpath, name) + "/input")).isSelected());
 
         //lecture 47
-        driver.get("https://accounts.google.com/SignUp?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Fpc%3Dtopnav-about-en&lp=1&hl=ru");
-        selectDropDown("Пол", "Мужской");
-        selectDropDown("Пол", "Женский");
+//        driver.get("https://accounts.google.com/SignUp?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Fpc%3Dtopnav-about-en&lp=1&hl=ru");
+//        selectDropDown("Пол", "Мужской");
+//        selectDropDown("Пол", "Женский");
+//
+//        selectDropDown("Страна", "Австралия (Australia)");
+//        selectDropDown("Страна", "Беларусь");
+//
+//    }
+//
 
-        selectDropDown("Страна", "Австралия (Australia)");
-        selectDropDown("Страна", "Беларусь");
+//    public static void selectDropDown(String option, String choice) {
+//        String optionXPath = String.format("(//strong[text()='%s']/following-sibling::div/div[@role='listbox'])[1]", option);
+//        String choiceXPath = String.format("//div[text()='%s']/parent::div[@role='option']", choice);
+//
+//        driver.findElement(By.xpath(optionXPath)).click();
+//        driver.findElement(By.xpath(choiceXPath)).click();
+//    }
+
+//lecture 48
+
+        driver.get("https://market.yandex.by");
+        driver.findElement(By.xpath("//a[text()=\"Бытовая техника\"]")).click();
+        driver.findElement(By.xpath("//a[text()=\"Стиральные машины\"]")).click();
+
+        List<WebElement> checkBoxes = driver.findElements(By.xpath("//div[@class=\"n-filter-panel-aside__content\"]/div[4]//span[@class='checkbox__box']"));
+
+        if (checkBoxes.size() == 12) {
+            System.out.println("Ok");
+        } else System.out.println("False");
+
+        for (WebElement checkBoxe : checkBoxes) {
+            checkBoxe.click();
+        }
+
 
     }
-
-    public static void selectDropDown(String option, String choice) {
-        String optionXPath = String.format("(//strong[text()='%s']/following-sibling::div/div[@role='listbox'])[1]", option);
-        String choiceXPath = String.format("//div[text()='%s']/parent::div[@role='option']", choice);
-
-        driver.findElement(By.xpath(optionXPath)).click();
-        driver.findElement(By.xpath(choiceXPath)).click();
-    }
-
 }
+
