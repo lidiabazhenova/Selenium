@@ -86,42 +86,59 @@ public class MainClass {
         //driver.quit();
 
         //lecture 46
+//
+//        driver.get("https://market.yandex.by");
+//        driver.findElement(By.xpath("//a[text()=\"Бытовая техника\"]")).click();
+//        driver.findElement(By.xpath("//a[text()=\"Стиральные машины\"]")).click();
+//
+//        selectCheckbox("BEKO");
+//        deselectCheckbox("BEKO");
+//        selectCheckbox("ATLANT");
+//
+//        selectRadiobutton("Самовывоз");
+//        selectRadiobutton("С доставкой");
+//
+//    }
+//
+//    public static void selectCheckbox(String name) {
+//        String cbxpath = "//label[text()='%s']/preceding-sibling::span";
+//        if (!driver.findElement(By.xpath(String.format(cbxpath, name) + "/input")).isSelected()) {
+//            driver.findElement(By.xpath(String.format(cbxpath, name))).click();
+//        }
+//        System.out.println(driver.findElement(By.xpath(String.format(cbxpath, name) + "/input")).isSelected());
+//    }
+//
+//    public static void deselectCheckbox(String name) {
+//        String cbxpath = "//label[text()='%s']/preceding-sibling::span";
+//        if (driver.findElement(By.xpath(String.format(cbxpath, name) + "/input")).isSelected()) {
+//            driver.findElement(By.xpath(String.format(cbxpath, name))).click();
+//        }
+//        System.out.println(driver.findElement(By.xpath(String.format(cbxpath, name) + "/input")).isSelected());
+//    }
+//
+//    public static void selectRadiobutton(String name) {
+//        String rbxpath = "//label[text()='%s']/span";
+//        if (!driver.findElement(By.xpath(String.format(rbxpath, name) + "/input")).isSelected()) {
+//            driver.findElement(By.xpath(String.format(rbxpath, name))).click();
+//        }
+//        System.out.println(driver.findElement(By.xpath(String.format(rbxpath, name) + "/input")).isSelected());
 
-        driver.get("https://market.yandex.by");
-        driver.findElement(By.xpath("//a[text()=\"Бытовая техника\"]")).click();
-        driver.findElement(By.xpath("//a[text()=\"Стиральные машины\"]")).click();
+        //lecture 47
+        driver.get("https://accounts.google.com/SignUp?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Fpc%3Dtopnav-about-en&lp=1&hl=ru");
+        selectDropDown("Пол", "Мужской");
+        selectDropDown("Пол", "Женский");
 
-        selectCheckbox("BEKO");
-        deselectCheckbox("BEKO");
-        selectCheckbox("ATLANT");
-
-        selectRadiobutton("Самовывоз");
-        selectRadiobutton("С доставкой");
+        selectDropDown("Страна", "Австралия (Australia)");
+        selectDropDown("Страна", "Беларусь");
 
     }
 
-    public  static void selectCheckbox(String name){
-        String cbxpath = "//label[text()='%s']/preceding-sibling::span";
-        if (!driver.findElement(By.xpath(String.format(cbxpath, name) + "/input")).isSelected()) {
-            driver.findElement(By.xpath(String.format(cbxpath, name))).click();
-        }
-        System.out.println(driver.findElement(By.xpath(String.format(cbxpath, name) + "/input")).isSelected());
-    }
+    public static void selectDropDown(String option, String choice) {
+        String optionXPath = String.format("(//strong[text()='%s']/following-sibling::div/div[@role='listbox'])[1]", option);
+        String choiceXPath = String.format("//div[text()='%s']/parent::div[@role='option']", choice);
 
-    public  static void deselectCheckbox(String name) {
-        String cbxpath = "//label[text()='%s']/preceding-sibling::span";
-        if (driver.findElement(By.xpath(String.format(cbxpath, name) + "/input")).isSelected()) {
-            driver.findElement(By.xpath(String.format(cbxpath, name))).click();
-        }
-        System.out.println(driver.findElement(By.xpath(String.format(cbxpath, name) + "/input")).isSelected());
-    }
-
-    public  static void selectRadiobutton(String name){
-        String rbxpath = "//label[text()='%s']/span";
-        if (!driver.findElement(By.xpath(String.format(rbxpath, name) + "/input")).isSelected()) {
-            driver.findElement(By.xpath(String.format(rbxpath, name))).click();
-        }
-        System.out.println(driver.findElement(By.xpath(String.format(rbxpath, name) + "/input")).isSelected());
+        driver.findElement(By.xpath(optionXPath)).click();
+        driver.findElement(By.xpath(choiceXPath)).click();
     }
 
 }
