@@ -143,22 +143,38 @@ public class MainClass {
 //        driver.findElement(By.xpath(choiceXPath)).click();
 //    }
 
-//lecture 48
+        //lecture 48
 
-        driver.get("https://market.yandex.by");
-        driver.findElement(By.xpath("//a[text()=\"Бытовая техника\"]")).click();
-        driver.findElement(By.xpath("//a[text()=\"Стиральные машины\"]")).click();
+//        driver.get("https://market.yandex.by");
+//        driver.findElement(By.xpath("//a[text()=\"Бытовая техника\"]")).click();
+//        driver.findElement(By.xpath("//a[text()=\"Стиральные машины\"]")).click();
+//
+//        List<WebElement> checkBoxes = driver.findElements(By.xpath("//div[@class=\"n-filter-panel-aside__content\"]/div[4]//span[@class='checkbox__box']"));
+//
+//        if (checkBoxes.size() == 12) {
+//            System.out.println("Ok");
+//        } else System.out.println("False");
+//
+//        for (WebElement checkBoxe : checkBoxes) {
+//            checkBoxe.click();
+//        }
+//
+        //lecture 49
 
-        List<WebElement> checkBoxes = driver.findElements(By.xpath("//div[@class=\"n-filter-panel-aside__content\"]/div[4]//span[@class='checkbox__box']"));
+        driver.get("https://www.w3schools.com/html/html_tables.asp");
+        WebElement tableElement = driver.findElement(By.xpath("//table[@id='customers']"));
 
-        if (checkBoxes.size() == 12) {
-            System.out.println("Ok");
-        } else System.out.println("False");
+        Table table = new Table(tableElement, driver);
+        System.out.println("Rows number is: " + table.getRows().size());
 
-        for (WebElement checkBoxe : checkBoxes) {
-            checkBoxe.click();
-        }
+        System.out.println(table.getValueFromCell(2, 3));
+        System.out.println(table.getValueFromCell(4, 1));
 
+        System.out.println(table.getValueFromCell(4, "Company"));
+        System.out.println(table.getValueFromCell(1, "Country"));
+        System.out.println(table.getValueFromCell(2, "Contact"));
+
+        driver.quit();
 
     }
 }
