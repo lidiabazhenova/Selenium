@@ -2,7 +2,6 @@ package com.lidiabazhenova;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.support.PageFactory;
 
 import java.util.concurrent.TimeUnit;
 
@@ -16,10 +15,7 @@ public class MainClass {
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         driver.get("https://github.com/");
 
-        //MainPage mainPage = new MainPage(driver);
-
-        MainPage mainPage = PageFactory.initElements(driver, MainPage.class);
-
+        MainPage mainPage = new MainPage(driver);
         mainPage.registration("testusername00999", "ggg@mail.ru", "123");
 
 
