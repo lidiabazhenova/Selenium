@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8942f81a-49a0-4112-a910-fb781d748ce7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainClass.java" afterPath="$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainClass.java" />
-      <change beforePath="$PROJECT_DIR$/../testselenium1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../testselenium1/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../testselenium1/phantomjsdriver.log" afterPath="$PROJECT_DIR$/../testselenium1/phantomjsdriver.log" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainPage.java" afterPath="$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainPage.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="MainClass.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainClass.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+            <state relative-caret-position="294">
+              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -30,15 +28,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainPage.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MainPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+            <state relative-caret-position="471">
+              <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#235#236#0" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#317#318#0" expanded="true" />
+                <element signature="e#353#354#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -110,8 +108,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/lidiabazhenova/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lidiabazhenova/SignUpPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainClass.java" />
       </list>
     </option>
   </component>
@@ -334,12 +332,12 @@
       <option name="presentableId" value="Default" />
       <updated>1512934008561</updated>
       <workItem from="1512934020337" duration="5000" />
-      <workItem from="1512934036786" duration="10018000" />
+      <workItem from="1512934036786" duration="10723000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10023000" />
+    <option name="totallyTimeSpent" value="10728000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1086" y="27" width="825" height="921" extended-state="0" />
@@ -470,24 +468,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainClass.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        <state relative-caret-position="471">
+          <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainPage.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        <state relative-caret-position="294">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
           </folding>
         </state>
       </provider>
