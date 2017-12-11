@@ -14,7 +14,7 @@ public class MainClass {
     private static WebDriver driver;
 
     public static void main(String[] args) {
-        System.setProperty("webdriver.gecko.driver", "C:\\projects\\Selenium\\testselenium1\\drivers1\\geckodriver.exe");
+        System.setProperty("webdriver.gecko.driver", "C:\\projects\\Selenium\\tutby\\drivers\\geckodriver.exe");
 
         driver = new FirefoxDriver();
         driver.manage().timeouts().implicitlyWait(8, TimeUnit.SECONDS);
@@ -45,7 +45,7 @@ public class MainClass {
             driver.findElement(By.xpath("//span[@ class=\"_nb-checkbox-flag _nb-checkbox-normal-flag\"]")).click();
         }
         driver.findElement(By.xpath("//div[@title=\"Удалить (Delete)\"]")).click();
-        
+
     }
 
 

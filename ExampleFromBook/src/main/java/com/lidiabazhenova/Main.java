@@ -7,6 +7,8 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.support.ui.ExpectedCondition;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.util.Collection;
@@ -16,9 +18,10 @@ import java.util.concurrent.TimeUnit;
 import static org.junit.Assert.*;
 
 public class Main {
+    static WebDriverWait wait;
 
     public static void main(String[] args) throws InterruptedException {
-        System.setProperty("webdriver.gecko.driver", "C:\\projects\\Selenium\\testselenium1\\drivers1\\geckodriver.exe");
+        System.setProperty("webdriver.gecko.driver", "C:\\projects\\Selenium\\testselenium1\\drivers\\geckodriver.exe");
         WebDriver driver = new FirefoxDriver();
 
         driver.get("http://svyatoslav.biz/testlab/wt");
@@ -62,7 +65,8 @@ public class Main {
         form.findElement(By.xpath("//input[@type=\"submit\"]")).click();
         // 6 (check) Форма исчезает, в центральной ячейке таблицы появляется надпись «Слишком мала масса тела».
         // Thread.sleep(3000);
-
+        wait = (new WebDriverWait(driver, 20));
+        wait.until(ExpectedConditions.invisibilityOfElementLocated(By.xpath("//input[@value='Рассчитать']")));
         forms = driver.findElements(By.tagName("form"));
         i = forms.iterator();
         form_found = false;
@@ -72,7 +76,7 @@ public class Main {
                     && (form.findElement(By.name("height")).getAttribute("type").equalsIgnoreCase("text"))
                     && (form.findElement(By.name("weight")).getAttribute("type").equalsIgnoreCase("text"))
                     && (form.findElement(By.xpath("//input[@type=\"submit\"]")).getAttribute("value").equalsIgnoreCase("Рассчитать"))
-                    && (form.findElements(By.name("gender")).size()==2)) {
+                    && (form.findElements(By.name("gender")).size() == 2)) {
                 form_found = true;
                 break;
             }

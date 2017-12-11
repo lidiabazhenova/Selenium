@@ -1,9 +1,12 @@
-import org.openqa.selenium.By;
-import org.openqa.selenium.Dimension;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.apache.commons.io.FileUtils;
+import org.openqa.selenium.*;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.phantomjs.PhantomJSDriver;
 
+import java.io.File;
+import java.io.IOException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
@@ -12,12 +15,26 @@ public class MainClass {
     private static WebDriver driver;
 
     public static void main(String[] args) {
-        System.setProperty("webdriver.gecko.driver", "C:\\projects\\Selenium\\testselenium1\\drivers1\\geckodriver.exe");
+        System.setProperty("webdriver.gecko.driver", "C:\\projects\\Selenium\\testselenium1\\drivers\\geckodriver.exe");
+        System.setProperty("phantomjs.binary.path", "C:\\projects\\Selenium\\testselenium1\\drivers\\phantomjs.exe");
 
-        driver = new FirefoxDriver();
+       // driver = new FirefoxDriver();
+        driver = new PhantomJSDriver();
+
+        Date dateNow = new Date();
+        SimpleDateFormat format = new SimpleDateFormat("hh_mm_ss");
+        String filename = format.format(dateNow)+ ".png";
+
+        File screenshot = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+
+        try {
+            FileUtils.copyFile(screenshot, new File("C:\\projects\\Selenium\\screenshots\\" + filename));
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
         driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
 //        driver.manage().window().setSize(new Dimension(900, 700));
-
         driver.manage().window().maximize();
 
 //        driver.get("http://localhost:8080/");
@@ -163,6 +180,19 @@ public class MainClass {
 
         driver.get("https://www.w3schools.com/html/html_tables.asp");
         WebElement tableElement = driver.findElement(By.xpath("//table[@id='customers']"));
+
+        dateNow = new Date();
+        format = new SimpleDateFormat("hh_mm_ss");
+        filename = format.format(dateNow)+ ".png";
+
+        screenshot = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+
+        try {
+            FileUtils.copyFile(screenshot, new File("C:\\projects\\Selenium\\screenshots\\" + filename));
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
 
         Table table = new Table(tableElement, driver);
         System.out.println("Rows number is: " + table.getRows().size());
