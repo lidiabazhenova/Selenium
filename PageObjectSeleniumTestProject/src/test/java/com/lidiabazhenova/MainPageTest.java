@@ -1,11 +1,15 @@
 package com.lidiabazhenova;
 
+import com.lidiabazhenova.page.LoginPage;
+import com.lidiabazhenova.page.MainPage;
+import com.lidiabazhenova.page.SignUpPage;
 import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.support.PageFactory;
 
 import java.util.concurrent.TimeUnit;
 
@@ -19,7 +23,7 @@ public class MainPageTest {
         driver = new FirefoxDriver();
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
         driver.get("http://github.com");
-        mainPage = new MainPage(driver);
+        mainPage = PageFactory.initElements(driver, MainPage.class);
     }
 
 

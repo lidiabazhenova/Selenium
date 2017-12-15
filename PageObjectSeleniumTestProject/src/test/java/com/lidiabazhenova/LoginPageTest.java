@@ -1,5 +1,7 @@
 package com.lidiabazhenova;
 
+import com.lidiabazhenova.page.LoginPage;
+import com.lidiabazhenova.page.SignUpPage;
 import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
@@ -24,20 +26,20 @@ public class LoginPageTest {
 
     @Test
     public void loginWithEmptyFieldsTest() {
-        LoginPage newloginPage = loginPage.loginWithInvalidCreds("", "");
-        String error = newloginPage.getErrorText();
+        loginPage.login("", "");
+        String error = loginPage.getErrorText();
         Assert.assertEquals("Incorrect username or password.", error);
     }
 
     @Test
     public void loginWithInvalidFieldsTest() {
-        LoginPage newloginPage = loginPage.loginWithInvalidCreds("uyuy", "123123");
-        String error = newloginPage.getErrorText();
+        loginPage.login("uyuy", "123123");
+        String error = loginPage.getErrorText();
         Assert.assertEquals("Incorrect username or password.", error);
     }
 
     @Test
-    public void cresteAccTest() {
+    public void createAccTest() {
         SignUpPage signUpPage = loginPage.createAccount();
         String heading = signUpPage.getHeadingText();
         Assert.assertEquals("Join GitHub", heading);
