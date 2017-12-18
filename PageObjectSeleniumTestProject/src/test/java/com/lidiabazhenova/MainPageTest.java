@@ -3,25 +3,16 @@ package com.lidiabazhenova;
 import com.lidiabazhenova.page.LoginPage;
 import com.lidiabazhenova.page.MainPage;
 import com.lidiabazhenova.page.SignUpPage;
-import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.support.PageFactory;
 
-import java.util.concurrent.TimeUnit;
+public class MainPageTest extends AbstractSeleniumTest {
 
-public class MainPageTest {
-    private WebDriver driver;
     private MainPage mainPage;
 
     @Before
     public void setUp() {
-        System.setProperty("webdriver.gecko.driver", "C:\\projects\\Selenium\\PageObjectSeleniumTest\\drivers\\geckodriver.exe");
-        driver = new FirefoxDriver();
-        driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
         driver.get("http://github.com");
         mainPage = new MainPage(driver);
     }
@@ -54,11 +45,5 @@ public class MainPageTest {
         String error = signUpPage.getUserEmailErrorText();
         Assert.assertEquals("Email is invalid or already taken", error);
     }
-
-    @After
-    public void tearDown() {
-        driver.close();
-    }
-
 
 }

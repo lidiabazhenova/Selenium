@@ -2,20 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00ba9c8e-7b3a-4233-b49c-2a484379d3ae" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/src/test/java/com/lidiabazhenova/AbstractSeleniumTest.java" />
       <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestPageFactory/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestPageFactory/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/src/test/java/com/lidiabazhenova/LoginPageTest.java" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/src/test/java/com/lidiabazhenova/LoginPageTest.java" />
       <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/src/test/java/com/lidiabazhenova/MainPageTest.java" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/src/test/java/com/lidiabazhenova/MainPageTest.java" />
       <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/src/test/java/com/lidiabazhenova/SignUpPageTest.java" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/src/test/java/com/lidiabazhenova/SignUpPageTest.java" />
       <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/src/test/java/com/lidiabazhenova/page/LoginPage.java" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/src/test/java/com/lidiabazhenova/page/LoginPage.java" />
-      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/src/test/java/com/lidiabazhenova/page/MainPage.java" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/src/test/java/com/lidiabazhenova/page/MainPage.java" />
-      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/src/test/java/com/lidiabazhenova/page/SignUpPage.java" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/src/test/java/com/lidiabazhenova/page/SignUpPage.java" />
       <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/LoginPageTest.class" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/LoginPageTest.class" />
       <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/MainPageTest.class" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/MainPageTest.class" />
       <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/SignUpPageTest.class" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/SignUpPageTest.class" />
       <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/page/LoginPage.class" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/page/LoginPage.class" />
-      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/page/MainPage.class" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/page/MainPage.class" />
-      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/page/SignUpPage.class" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/page/SignUpPage.class" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />

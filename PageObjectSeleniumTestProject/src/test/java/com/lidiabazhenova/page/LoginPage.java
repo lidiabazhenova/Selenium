@@ -27,6 +27,9 @@ public class LoginPage {
     @FindBy(xpath = "//div[contains(@class, 'auth-form-header')]/h1")
     private WebElement heading;
 
+    @FindBy(xpath = "//div[@id='js-pjax-container']//h2")
+    private WebElement headingForStartGit;
+
     @FindBy(xpath = "//div[@id='js-flash-container']//div[@class='container']")
     private WebElement error;
 
@@ -51,6 +54,10 @@ public class LoginPage {
 
     public String getHeadingText() {
         return heading.getText();
+    }
+
+    public String getHeadingForStartGit() {
+        return headingForStartGit.getText();
     }
 
     public String getErrorText() {
