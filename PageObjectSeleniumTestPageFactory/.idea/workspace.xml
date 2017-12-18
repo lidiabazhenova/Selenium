@@ -2,27 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8942f81a-49a0-4112-a910-fb781d748ce7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/src/test/java/com/lidiabazhenova/page/MainPage.java" />
-      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTest/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTest/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/.idea/modules.xml" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/PageObjectSeleniumTest.iml" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/PageObjectSeleniumTestProject.iml" />
-      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/drivers/geckodriver.exe" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/pom.xml" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/src/main/java/com/lidiabazhenova/LoginPage.java" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/src/test/java/com/lidiabazhenova/page/LoginPage.java" />
-      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/src/main/java/com/lidiabazhenova/MainClass.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/src/main/java/com/lidiabazhenova/MainPage.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/src/main/java/com/lidiabazhenova/SignUpPage.java" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/src/test/java/com/lidiabazhenova/page/SignUpPage.java" />
       <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/src/test/java/com/lidiabazhenova/LoginPageTest.java" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/src/test/java/com/lidiabazhenova/LoginPageTest.java" />
       <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/src/test/java/com/lidiabazhenova/MainPageTest.java" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/src/test/java/com/lidiabazhenova/MainPageTest.java" />
       <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/src/test/java/com/lidiabazhenova/SignUpPageTest.java" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/src/test/java/com/lidiabazhenova/SignUpPageTest.java" />
-      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/classes/com/lidiabazhenova/MainClass.class" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/classes/com/lidiabazhenova/MainClass.class" />
-      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/classes/com/lidiabazhenova/MainPage.class" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/classes/com/lidiabazhenova/MainPage.class" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/src/test/java/com/lidiabazhenova/page/LoginPage.java" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/src/test/java/com/lidiabazhenova/page/LoginPage.java" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/src/test/java/com/lidiabazhenova/page/MainPage.java" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/src/test/java/com/lidiabazhenova/page/MainPage.java" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/src/test/java/com/lidiabazhenova/page/SignUpPage.java" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/src/test/java/com/lidiabazhenova/page/SignUpPage.java" />
       <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/LoginPageTest.class" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/LoginPageTest.class" />
       <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/MainPageTest.class" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/MainPageTest.class" />
       <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/SignUpPageTest.class" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/SignUpPageTest.class" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/page/LoginPage.class" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/page/LoginPage.class" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/page/MainPage.class" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/page/MainPage.class" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/page/SignUpPage.class" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/page/SignUpPage.class" />
       <change beforePath="$PROJECT_DIR$/../testselenium1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../testselenium1/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -39,7 +32,7 @@
       <file leaf-file-name="MainClass.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
+            <state relative-caret-position="294">
               <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -51,7 +44,7 @@
       <file leaf-file-name="MainPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1481">
+            <state relative-caret-position="1554">
               <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -62,7 +55,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
@@ -75,8 +68,8 @@
       <file leaf-file-name="LoginPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/lidiabazhenova/LoginPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1029">
-              <caret line="49" column="1" lean-forward="false" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+            <state relative-caret-position="682">
+              <caret line="43" column="5" lean-forward="false" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#187#188#0" expanded="true" />
@@ -90,11 +83,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SignUpPage.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SignUpPage.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/lidiabazhenova/SignUpPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1163">
-              <caret line="56" column="5" lean-forward="false" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+            <state relative-caret-position="808">
+              <caret line="64" column="5" lean-forward="true" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#189#190#0" expanded="true" />
@@ -178,10 +171,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -371,11 +364,12 @@
       <workItem from="1512934036786" duration="10723000" />
       <workItem from="1513364929373" duration="768000" />
       <workItem from="1513366097878" duration="770000" />
+      <workItem from="1513585470287" duration="869000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12266000" />
+    <option name="totallyTimeSpent" value="13135000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -393,7 +387,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23541667" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" x="568" y="60" width="319" height="624" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23541667" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" x="568" y="60" width="319" height="624" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -452,6 +446,74 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1554">
+          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidiabazhenova/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1029">
+          <caret line="49" column="1" lean-forward="false" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#1260#1261#0" expanded="true" />
+            <element signature="e#1320#1321#0" expanded="true" />
+            <element signature="e#1356#1357#0" expanded="true" />
+            <element signature="e#1414#1415#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidiabazhenova/SignUpPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1176">
+          <caret line="56" column="5" lean-forward="false" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#1789#1790#0" expanded="true" />
+            <element signature="e#1849#1850#0" expanded="true" />
+            <element signature="e#1889#1890#0" expanded="true" />
+            <element signature="e#1951#1952#0" expanded="true" />
+            <element signature="e#1995#1996#0" expanded="true" />
+            <element signature="e#2061#2062#0" expanded="true" />
+            <element signature="e#2106#2107#0" expanded="true" />
+            <element signature="e#2173#2174#0" expanded="true" />
+            <element signature="e#2221#2222#0" expanded="true" />
+            <element signature="e#2291#2292#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -590,7 +652,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state relative-caret-position="294">
           <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -598,10 +660,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1554">
+          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lidiabazhenova/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1029">
-          <caret line="49" column="1" lean-forward="false" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+        <state relative-caret-position="682">
+          <caret line="43" column="5" lean-forward="false" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#187#188#0" expanded="true" />
@@ -616,8 +698,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lidiabazhenova/SignUpPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1163">
-          <caret line="56" column="5" lean-forward="false" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+        <state relative-caret-position="808">
+          <caret line="64" column="5" lean-forward="true" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#189#190#0" expanded="true" />
@@ -633,26 +715,6 @@
             <element signature="e#2221#2222#0" expanded="true" />
             <element signature="e#2291#2292#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1481">
-          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>

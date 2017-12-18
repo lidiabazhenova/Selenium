@@ -2,49 +2,63 @@ package com.lidiabazhenova.page;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
 
 public class LoginPage {
 
-    WebDriver driver;
+    private  WebDriver driver;
 
     public LoginPage(WebDriver driver) {
         this.driver = driver;
+        PageFactory.initElements(driver, this);
     }
 
-    private By loginField = By.xpath("//input[@id=\"login_field\"]");
-    private By passwordField = By.xpath("//input[@id=\"password\"]");
-    private By signInButton = By.xpath("//input[@type=\"submit\"]");
-    private By heading = By.xpath("//div[contains(@class, 'auth-form-header')]/h1");
-    private By error = By.xpath("//div[@id='js-flash-container']//div[@class='container']");
-    private By createAccountLink = By.xpath("//a[text()='Create an account']");
+    @FindBy(xpath = "//input[@id='login_field']")
+    private WebElement loginField;
+
+    @FindBy(xpath = "//input[@id='password']")
+    private WebElement passwordField;
+
+    @FindBy(xpath = "//input[@type='submit']")
+    private WebElement signInButton;
+
+    @FindBy(xpath = "//div[contains(@class, 'auth-form-header')]/h1")
+    private WebElement heading;
+
+    @FindBy(xpath = "//div[@id='js-flash-container']//div[@class='container']")
+    private WebElement error;
+
+    @FindBy(xpath = "//a[text()='Create an account']")
+    private WebElement createAccountLink;
 
     public LoginPage typeUserName(String userName) {
-        driver.findElement(loginField).sendKeys(userName);
+        loginField.sendKeys(userName);
         return this;
     }
 
     public LoginPage typePassword(String password) {
-        driver.findElement(passwordField).sendKeys(password);
+        passwordField.sendKeys(password);
         return this;
     }
 
     public void login(String userName, String password) {
         typeUserName(userName);
         typePassword(password);
-
-        driver.findElement(signInButton).click();
+        signInButton.click();
     }
 
     public String getHeadingText() {
-        return driver.findElement(heading).getText();
+        return heading.getText();
     }
 
     public String getErrorText() {
-        return driver.findElement(error).getText();
+        return error.getText();
     }
 
     public SignUpPage createAccount() {
-        driver.findElement(createAccountLink).click();
+        createAccountLink.click();
         return new SignUpPage(driver);
     }
 }

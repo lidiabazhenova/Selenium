@@ -1,6 +1,7 @@
 package com.lidiabazhenova;
 
 import com.lidiabazhenova.page.LoginPage;
+import com.lidiabazhenova.page.MainPage;
 import com.lidiabazhenova.page.SignUpPage;
 import org.junit.After;
 import org.junit.Assert;
@@ -8,6 +9,7 @@ import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.support.PageFactory;
 
 import java.util.concurrent.TimeUnit;
 

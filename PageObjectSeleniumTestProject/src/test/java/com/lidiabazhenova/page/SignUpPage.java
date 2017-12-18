@@ -2,6 +2,9 @@ package com.lidiabazhenova.page;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
 
 public class SignUpPage {
 
@@ -9,58 +12,76 @@ public class SignUpPage {
 
     public SignUpPage(WebDriver driver) {
         this.driver = driver;
+        PageFactory.initElements(driver, this);
     }
+//"//div[contains(@class, \"setup-header\")]/h1"
+    @FindBy(xpath = "//div[contains(@class, 'setup-header')]/h1")
+    private WebElement heading;
 
-    private By heading = By.xpath("//div[contains(@class, \"setup-header\")]/h1");
-    private By userNameField = By.xpath("//input[@id='user_login']");
-    private By userEmailField = By.xpath("//input[@id='user_email']");
-    private By userPasswordField = By.xpath("//input[@id='user_password']");
-    private By signUpButton = By.xpath("//button[@id=\"signup_button\"]");
-    private By mainError = By.xpath("//form[@id='signup-form']/div[contains(@class, 'flash flash-error')]");
-    private By userNameError = By.xpath("//input[@id=\"user_login\"]/ancestor::dd/following-sibling::dd");
-    private By userEmailError = By.xpath("//input[@id='user_email']/ancestor::dd/following-sibling::dd");
-    private By userPasswordError = By.xpath("//input[@id='user_password']/ancestor::dd/following-sibling::dd");
+    @FindBy(xpath = "//input[@id='user_login']")
+    private WebElement userNameField;
+
+    @FindBy(xpath = "//input[@id='user_email']")
+    private WebElement userEmailField;
+
+    @FindBy(xpath = "//input[@id='user_password']")
+    private WebElement userPasswordField;
+
+    @FindBy(xpath = "//button[@id='signup_button']")
+    private WebElement signUpButton;
+
+    @FindBy(xpath = "//form[@id='signup-form']/div[contains(@class, 'flash flash-error')]")
+    private WebElement mainError;
+
+    @FindBy(xpath = "//input[@id='user_login']/ancestor::dd/following-sibling::dd")
+    private WebElement userNameError;
+
+    @FindBy(xpath = "//input[@id='user_email']/ancestor::dd/following-sibling::dd")
+    private WebElement userEmailError;
+
+    @FindBy(xpath = "//input[@id='user_password']/ancestor::dd/following-sibling::dd")
+    private WebElement userPasswordError;
 
     public SignUpPage typeUserName(String userName) {
-        driver.findElement(userNameField).sendKeys(userName);
+        userNameField.sendKeys(userName);
         return this;
     }
 
     public SignUpPage typePassword(String password) {
-        driver.findElement(userPasswordField).sendKeys(password);
+        userPasswordField.sendKeys(password);
         return this;
     }
 
     public SignUpPage typeEmail(String email) {
-        driver.findElement(userEmailField).sendKeys(email);
+        userEmailField.sendKeys(email);
         return this;
     }
 
     public void register(String userName, String eMail, String password) {
-        this.typePassword(userName);
-        this.typeEmail(eMail);
-        this.typeEmail(password);
-        driver.findElement(signUpButton).click();
+        typeUserName(userName);
+        typeEmail(eMail);
+        typePassword(password);
+        signUpButton.click();
     }
 
     public String getHeadingText() {
-        return driver.findElement(heading).getText();
+        return heading.getText();
     }
 
     public String getMainErrorText() {
-        return driver.findElement(mainError).getText();
+        return mainError.getText();
     }
 
     public String getUserNameErrorText() {
-        return driver.findElement(userNameError).getText();
+        return userNameError.getText();
     }
 
     public String getUserEmailErrorText() {
-        return driver.findElement(userEmailError).getText();
+        return userEmailError.getText();
     }
 
     public String getUserPasswordErrorText() {
-        return driver.findElement(userPasswordError).getText();
+        return userPasswordError.getText();
     }
 
 }
