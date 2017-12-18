@@ -47,9 +47,9 @@ public class MainClass {
 
         Date dateNow = new Date();
         SimpleDateFormat format = new SimpleDateFormat("hh_mm_ss");
-        String filename = format.format(dateNow)+ ".png";
+        String filename = format.format(dateNow) + ".png";
 
-        File screenshot = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+        File screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 
         try {
             FileUtils.copyFile(screenshot, new File("C:\\projects\\Selenium\\screenshots\\" + filename));

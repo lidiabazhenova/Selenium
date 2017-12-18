@@ -17,7 +17,8 @@ public class MainClass {
 
         driver.get("https://github.com/");
 
-        if (driver.findElements(By.xpath("//a[text()='Log in']")).size() > 0) System.out.println("Such element is presented");
+        if (driver.findElements(By.xpath("//a[text()='Log in']")).size() > 0)
+            System.out.println("Such element is presented");
         else System.out.println("Cannot find such element");
 
     }

@@ -21,22 +21,11 @@ public class MainClass {
 
     public static void main(String[] args) {
         System.setProperty("webdriver.gecko.driver", "C:\\projects\\Selenium\\testselenium1\\drivers\\geckodriver.exe");
-        //System.setProperty("phantomjs.binary.path", "C:\\projects\\Selenium\\testselenium1\\drivers\\phantomjs.exe");
+        System.setProperty("phantomjs.binary.path", "C:\\projects\\Selenium\\testselenium1\\drivers\\phantomjs.exe");
 
-        driver = new FirefoxDriver();
-        //driver = new PhantomJSDriver();
+        //driver = new FirefoxDriver();
+        driver = new PhantomJSDriver();
 
-        Date dateNow = new Date();
-        SimpleDateFormat format = new SimpleDateFormat("hh_mm_ss");
-        String filename = format.format(dateNow) + ".png";
-
-        File screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-
-        try {
-            FileUtils.copyFile(screenshot, new File("C:\\projects\\Selenium\\screenshots\\" + filename));
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
 
         driver.manage().timeouts().implicitlyWait(17, TimeUnit.SECONDS);
 //        driver.manage().window().setSize(new Dimension(900, 700));
@@ -154,15 +143,6 @@ public class MainClass {
 //        selectDropDown("Страна", "Австралия (Australia)");
 //        selectDropDown("Страна", "Беларусь");
 
-        //addition from  Raul courses
-        driver.get("http://spicejet.com/");
-        Select dropdown = new Select(driver.findElement(By.xpath(".//*[@id='ctl00_mainContent_ddl_Adult']")));
-
-        dropdown.selectByIndex(4);
-
-        dropdown.selectByVisibleText("3");
-
-        dropdown.selectByValue("8");
 //        List<WebElement> list= dropdown.getOptions();
 //        System.out.println(list.get(1).getText());
 
@@ -194,35 +174,35 @@ public class MainClass {
 //            checkBoxe.click();
 //        }
 //
-        //lecture 49
-//
-//        driver.get("https://www.w3schools.com/html/html_tables.asp");
-//        WebElement tableElement = driver.findElement(By.xpath("//table[@id='customers']"));
-//
-//        dateNow = new Date();
-//        format = new SimpleDateFormat("hh_mm_ss");
-//        filename = format.format(dateNow)+ ".png";
-//
-//        screenshot = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
-//
-//        try {
-//            FileUtils.copyFile(screenshot, new File("C:\\projects\\Selenium\\screenshots\\" + filename));
-//        } catch (IOException e) {
-//            e.printStackTrace();
-//        }
-//
-//
-//        Table table = new Table(tableElement, driver);
-//        System.out.println("Rows number is: " + table.getRows().size());
-//
-//        System.out.println(table.getValueFromCell(2, 3));
-//        System.out.println(table.getValueFromCell(4, 1));
-//
-//        System.out.println(table.getValueFromCell(4, "Company"));
-//        System.out.println(table.getValueFromCell(1, "Country"));
-//        System.out.println(table.getValueFromCell(2, "Contact"));
+//        lecture 49
 
-        //  driver.quit();
+        driver.get("https://www.w3schools.com/html/html_tables.asp");
+
+        WebElement tableElement = driver.findElement(By.xpath("//table[@id='customers']"));
+
+        Date dateNow = new Date();
+        SimpleDateFormat format = new SimpleDateFormat("hh_mm_ss");
+        String filename = format.format(dateNow) + ".png";
+
+        File screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
+
+        try {
+            FileUtils.copyFile(screenshot, new File("C:\\projects\\Selenium\\testselenium1\\screenshots\\" + filename));
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        Table table = new Table(tableElement, driver);
+        System.out.println("Rows number is: " + table.getRows().size());
+
+        System.out.println(table.getValueFromCell(2, 3));
+        System.out.println(table.getValueFromCell(4, 1));
+
+        System.out.println(table.getValueFromCell(4, "Company"));
+        System.out.println(table.getValueFromCell(1, "Country"));
+        System.out.println(table.getValueFromCell(2, "Contact"));
+
+        driver.quit();
 
     }
 }

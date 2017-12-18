@@ -25,6 +25,8 @@ public class MainClass {
 
         driver.get("https://www.ebay.com");
 
+        driver.findElement(By.xpath("//*[@id=\"HomepageOverlay14374ModalClose\"]/img")).click();
+
         WebElement link = driver.findElement(By.xpath("//tr[@role='list']//a[text()='Электроника']"));
         WebElement element = driver.findElement(By.xpath("//tr[@role='list']//a[text()='Электроника']"));
 
@@ -42,7 +44,7 @@ public class MainClass {
 //        Action action = actions.clickAndHold(element).moveToElement(link).release().build();
 //        action.perform();
 
-        driver.quit();
+        //       driver.quit();
     }
 
 }

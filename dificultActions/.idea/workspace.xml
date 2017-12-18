@@ -1,7 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af138a36-7c13-4012-82e0-32a8d0e5c6bf" name="Default" comment="" />
+    <list default="true" id="af138a36-7c13-4012-82e0-32a8d0e5c6bf" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/../DropDownCheckBoxesRadioButtonsAlerts/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../DropDownCheckBoxesRadioButtonsAlerts/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../DropDownCheckBoxesRadioButtonsAlerts/src/main/java/com/lidiabazhenova/MainClass.java" afterPath="$PROJECT_DIR$/../DropDownCheckBoxesRadioButtonsAlerts/src/main/java/com/lidiabazhenova/MainClass.java" />
+      <change beforePath="$PROJECT_DIR$/../DropDownCheckBoxesRadioButtonsAlerts/target/classes/com/lidiabazhenova/MainClass.class" afterPath="$PROJECT_DIR$/../DropDownCheckBoxesRadioButtonsAlerts/target/classes/com/lidiabazhenova/MainClass.class" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/classes/com/lidiabazhenova/LoginPage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/classes/com/lidiabazhenova/MainClass.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/classes/com/lidiabazhenova/MainPage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/classes/com/lidiabazhenova/SignUpPage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/AbstractSeleniumTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/LoginPageTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/MainPageTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/SignUpPageTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/page/LoginPage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/page/MainPage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/page/SignUpPage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../ValidationElements/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ValidationElements/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainClass.java" afterPath="$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainClass.java" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lidiabazhenova/MainClass.class" afterPath="$PROJECT_DIR$/target/classes/com/lidiabazhenova/MainClass.class" />
+      <change beforePath="$PROJECT_DIR$/../exampleKeysImitation/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../exampleKeysImitation/target/classes/com/lidiabazhenova/FinalClass.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../examplePresentedElements/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/01_08_12.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/01_08_15.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/02_45_35.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/02_47_17.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/02_48_46.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/02_53_45.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/02_57_47.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_03_49.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_04_42.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_07_19.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_09_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_10_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_12_02.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_12_52.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_18_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_21_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_24_11.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_26_22.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_27_18.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_33_32.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_34_41.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_36_11.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_40_47.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_41_43.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_42_28.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_43_14.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_43_51.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_45_59.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_47_51.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_48_39.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_50_40.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_55_19.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_56_08.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_58_12.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/04_00_30.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/04_02_08.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/04_03_05.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/04_03_51.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/04_07_55.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/04_21_18.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/04_22_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/04_23_33.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/04_30_28.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/05_12_41.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/05_14_25.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/05_15_23.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/10_21_32.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/10_21_39.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/10_40_09.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/11_21_55.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/11_25_44.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/11_26_55.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/11_27_39.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/11_27_47.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/11_31_47.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/11_34_57.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/11_35_51.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/11_43_31.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/11_43_52.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/11_44_58.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/12_47_06.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/12_47_10.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/12_47_46.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/12_47_49.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/code.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/screenshots1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../testselenium1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../testselenium1/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../testselenium1/phantomjsdriver.log" afterPath="$PROJECT_DIR$/../testselenium1/phantomjsdriver.log" />
+      <change beforePath="$PROJECT_DIR$/../testselenium1/src/main/java/MainClass.java" afterPath="$PROJECT_DIR$/../testselenium1/src/main/java/MainClass.java" />
+      <change beforePath="$PROJECT_DIR$/../testselenium1/target/classes/MainClass.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../testselenium1/target/classes/Table.class" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +111,8 @@
       <file leaf-file-name="MainClass.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="597">
-              <caret line="32" column="43" lean-forward="false" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+            <state relative-caret-position="485">
+              <caret line="38" column="51" lean-forward="true" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,6 +128,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -60,12 +158,13 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="929" />
-    <option name="y" value="11" />
-    <option name="width" value="965" />
-    <option name="height" value="955" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="129" />
+    <option name="y" value="72" />
+    <option name="width" value="1420" />
+    <option name="height" value="921" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages />
@@ -89,6 +188,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -225,14 +325,17 @@
       <workItem from="1512374055009" duration="4000000" />
       <workItem from="1512483709059" duration="7000" />
       <workItem from="1512486257027" duration="32000" />
+      <workItem from="1513596793834" duration="550000" />
+      <workItem from="1513597586168" duration="26000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4039000" />
+    <option name="totallyTimeSpent" value="4615000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="929" y="11" width="965" height="955" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -241,8 +344,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40337908" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.403125" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -252,14 +355,14 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32844934" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32821077" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -325,6 +428,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -334,8 +457,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="32" column="43" lean-forward="false" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+        <state relative-caret-position="485">
+          <caret line="38" column="51" lean-forward="true" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

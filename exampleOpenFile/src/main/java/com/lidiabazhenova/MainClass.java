@@ -21,7 +21,7 @@ public class MainClass {
 
         driver.findElement(By.xpath("//a[@aria-label=\"Поиск по картинке\"]//span[@id=\"qbi\"]")).click();
         driver.findElement(By.xpath("//a[text()='Загрузить файл']")).click();
-        driver.findElement(By.xpath("//input[@type='file']")).sendKeys("C:\\projects\\Selenium\\screenshots\\screenshots1.png");
+        driver.findElement(By.xpath("//input[@type='file']")).sendKeys("C:\\projects\\Selenium\\testselenium1\\screenshots\\02_25_26.png");
 
     }
 

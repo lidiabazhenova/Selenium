@@ -48,9 +48,7 @@ public class MainClass {
             if (text.equals("Cheese"))
 
             {
-
                 driver.findElements(By.xpath("//input[@name='group1']")).get(i).click();
-
             }
 
         }

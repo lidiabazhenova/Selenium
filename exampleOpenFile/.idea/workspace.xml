@@ -2,203 +2,106 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="602d8a32-0eb2-4d10-9541-c75ad9925bbe" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__cglib_cglib_nodep_3_2_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__com_codeborne_phantomjsdriver_1_3_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__io_netty_netty_3_5_7_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_20.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_2_15_v20160210.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_2_15_v20160210.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_2_15_v20160210.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_2_15_v20160210.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_2_15_v20160210.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../epam/src/main/java/com/lidiabazhenova/MainClass.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__cglib_cglib_nodep_3_2_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__com_codeborne_phantomjsdriver_1_3_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__io_netty_netty_3_5_7_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_20.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_2_15_v20160210.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_2_15_v20160210.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_2_15_v20160210.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_2_15_v20160210.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_2_15_v20160210.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/exampleKeysImitation.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../exampleKeysImitation/src/main/java/com/lidiabazhenova/MainClass.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainClass.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__cglib_cglib_nodep_3_2_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__com_codeborne_phantomjsdriver_1_3_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__io_netty_netty_3_5_7_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_20.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_2_15_v20160210.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_2_15_v20160210.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_2_15_v20160210.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_2_15_v20160210.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_2_15_v20160210.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/examplePresentedElements.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../examplePresentedElements/src/main/java/com/lidiabazhenova/MainClass.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__cglib_cglib_nodep_3_2_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__com_codeborne_phantomjsdriver_1_3_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__io_netty_netty_3_5_7_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_20.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_2_15_v20160210.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_2_15_v20160210.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_2_15_v20160210.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_2_15_v20160210.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_2_15_v20160210.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/scriptExample.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../scriptExample/src/main/java/com/lidiabazhenova/MainClass.java" />
-      <change beforePath="$PROJECT_DIR$/../ExampleFromBook/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ExampleFromBook/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../ExampleFromBook/src/main/java/com/lidiabazhenova/Main.java" afterPath="$PROJECT_DIR$/../ExampleFromBook/src/main/java/com/lidiabazhenova/Main.java" />
-      <change beforePath="$PROJECT_DIR$/../ExampleFromBook/target/classes/com/lidiabazhenova/Main$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../ExampleFromBook/target/classes/com/lidiabazhenova/Main.class" afterPath="$PROJECT_DIR$/../ExampleFromBook/target/classes/com/lidiabazhenova/Main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../dificultActions/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/../DropDownCheckBoxesRadioButtonsAlerts/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../DropDownCheckBoxesRadioButtonsAlerts/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../DropDownCheckBoxesRadioButtonsAlerts/src/main/java/com/lidiabazhenova/MainClass.java" afterPath="$PROJECT_DIR$/../DropDownCheckBoxesRadioButtonsAlerts/src/main/java/com/lidiabazhenova/MainClass.java" />
+      <change beforePath="$PROJECT_DIR$/../DropDownCheckBoxesRadioButtonsAlerts/target/classes/com/lidiabazhenova/MainClass.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/classes/com/lidiabazhenova/LoginPage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/classes/com/lidiabazhenova/MainClass.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/classes/com/lidiabazhenova/MainPage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/classes/com/lidiabazhenova/SignUpPage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/AbstractSeleniumTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/LoginPageTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/MainPageTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/SignUpPageTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/page/LoginPage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/page/MainPage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/page/SignUpPage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../ValidationElements/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ValidationElements/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../dificultActions/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../dificultActions/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../dificultActions/src/main/java/com/lidiabazhenova/MainClass.java" afterPath="$PROJECT_DIR$/../dificultActions/src/main/java/com/lidiabazhenova/MainClass.java" />
+      <change beforePath="$PROJECT_DIR$/../dificultActions/target/classes/com/lidiabazhenova/MainClass.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../exampleKeysImitation/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../exampleKeysImitation/src/main/java/com/lidiabazhenova/MainClass.java" afterPath="$PROJECT_DIR$/../exampleKeysImitation/src/main/java/com/lidiabazhenova/MainClass.java" />
+      <change beforePath="$PROJECT_DIR$/../exampleKeysImitation/target/classes/com/lidiabazhenova/FinalClass.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../exampleKeysImitation/target/classes/com/lidiabazhenova/MainClass.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainClass.java" afterPath="$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainClass.java" />
+      <change beforePath="$PROJECT_DIR$/../examplePresentedElements/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../examplePresentedElements/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../examplePresentedElements/src/main/java/com/lidiabazhenova/MainClass.java" afterPath="$PROJECT_DIR$/../examplePresentedElements/src/main/java/com/lidiabazhenova/MainClass.java" />
+      <change beforePath="$PROJECT_DIR$/../examplePresentedElements/target/classes/com/lidiabazhenova/MainClass.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/01_08_12.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/01_08_15.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/02_45_35.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/02_47_17.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/02_48_46.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/02_53_45.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/02_57_47.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_03_49.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_04_42.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_07_19.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_09_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_10_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_12_02.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_12_52.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_18_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_21_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_24_11.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_26_22.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_27_18.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_33_32.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_34_41.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_36_11.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_40_47.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_41_43.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_42_28.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_43_14.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_43_51.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_45_59.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_47_51.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_48_39.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_50_40.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_55_19.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_56_08.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_58_12.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/04_00_30.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/04_02_08.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/04_03_05.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/04_03_51.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/04_07_55.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/04_21_18.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/04_22_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/04_23_33.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/04_30_28.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/05_12_41.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/05_14_25.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/05_15_23.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/10_21_32.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/10_21_39.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/10_40_09.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/11_21_55.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/11_25_44.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/11_26_55.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/11_27_39.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/11_27_47.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/11_31_47.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/11_34_57.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/11_35_51.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/11_43_31.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/11_43_52.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/11_44_58.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/12_47_06.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/12_47_10.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/12_47_46.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/12_47_49.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/code.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/screenshots1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../scriptExample/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../scriptExample/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/../testselenium1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../testselenium1/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../testselenium1/drivers/geckodriver.exe" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../tutby/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../tutby/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../tutby/src/main/java/com/lidiabazhenova/MainClass.java" afterPath="$PROJECT_DIR$/../tutby/src/main/java/com/lidiabazhenova/MainClass.java" />
-      <change beforePath="$PROJECT_DIR$/../tutby/target/classes/com/lidiabazhenova/MainClass.class" afterPath="$PROJECT_DIR$/../tutby/target/classes/com/lidiabazhenova/MainClass.class" />
+      <change beforePath="$PROJECT_DIR$/../testselenium1/phantomjsdriver.log" afterPath="$PROJECT_DIR$/../testselenium1/phantomjsdriver.log" />
+      <change beforePath="$PROJECT_DIR$/../testselenium1/src/main/java/MainClass.java" afterPath="$PROJECT_DIR$/../testselenium1/src/main/java/MainClass.java" />
+      <change beforePath="$PROJECT_DIR$/../testselenium1/target/classes/MainClass.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../testselenium1/target/classes/Table.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -293,6 +196,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -323,8 +228,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -334,7 +237,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Java-Collections-Adding-Exits-to-the-Adventure-game-Source-code" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -473,24 +376,27 @@
       <workItem from="1512488273831" duration="1617000" />
       <workItem from="1512489968709" duration="2207000" />
       <workItem from="1512646245149" duration="133000" />
+      <workItem from="1513597999859" duration="147000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5563000" />
+    <option name="totallyTimeSpent" value="5710000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26783755" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26783755" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -500,14 +406,13 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -523,6 +428,24 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="23" column="71" lean-forward="false" selection-start-line="23" selection-start-column="71" selection-end-line="23" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">

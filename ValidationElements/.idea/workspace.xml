@@ -2,28 +2,89 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e42613d-d316-4206-b83f-7727ce70cf84" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTest/src/test/java/com/lidiabazhenova/SignUpPageTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ValidationElements.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainClass.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Работа с окнами и вкладками браузера/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Работа с окнами и вкладками браузера/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Работа с окнами и вкладками браузера/.idea/Работа с окнами и вкладками браузера.iml" />
-      <change beforePath="$PROJECT_DIR$/../ExampleFromBook/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ExampleFromBook/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTest/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTest/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTest/src/main/java/com/lidiabazhenova/LoginPage.java" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTest/src/main/java/com/lidiabazhenova/LoginPage.java" />
-      <change beforePath="$PROJECT_DIR$/../exampleKeysImitation/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../exampleKeysImitation/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/classes/com/lidiabazhenova/LoginPage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/classes/com/lidiabazhenova/MainClass.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/classes/com/lidiabazhenova/MainPage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/classes/com/lidiabazhenova/SignUpPage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/AbstractSeleniumTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/LoginPageTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/MainPageTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/SignUpPageTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/page/LoginPage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/page/MainPage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/target/test-classes/com/lidiabazhenova/page/SignUpPage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/01_08_12.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/01_08_15.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/02_45_35.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/02_47_17.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/02_48_46.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/02_53_45.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/02_57_47.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_03_49.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_04_42.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_07_19.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_09_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_10_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_12_02.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_12_52.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_18_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_21_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_24_11.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_26_22.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_27_18.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_33_32.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_34_41.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_36_11.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_40_47.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_41_43.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_42_28.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_43_14.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_43_51.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_45_59.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_47_51.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_48_39.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_50_40.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_55_19.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_56_08.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/03_58_12.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/04_00_30.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/04_02_08.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/04_03_05.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/04_03_51.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/04_07_55.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/04_21_18.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/04_22_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/04_23_33.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/04_30_28.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/05_12_41.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/05_14_25.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/05_15_23.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/10_21_32.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/10_21_39.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/10_40_09.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/11_21_55.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/11_25_44.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/11_26_55.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/11_27_39.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/11_27_47.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/11_31_47.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/11_34_57.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/11_35_51.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/11_43_31.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/11_43_52.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/11_44_58.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/12_47_06.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/12_47_10.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/12_47_46.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/12_47_49.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/code.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../screenshots/screenshots1.png" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../testselenium1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../testselenium1/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../testselenium1/drivers/geckodriver.exe" afterPath="$PROJECT_DIR$/../testselenium1/drivers/geckodriver.exe" />
       <change beforePath="$PROJECT_DIR$/../testselenium1/phantomjsdriver.log" afterPath="$PROJECT_DIR$/../testselenium1/phantomjsdriver.log" />
       <change beforePath="$PROJECT_DIR$/../testselenium1/src/main/java/MainClass.java" afterPath="$PROJECT_DIR$/../testselenium1/src/main/java/MainClass.java" />
-      <change beforePath="$PROJECT_DIR$/../testselenium1/target/classes/MainClass.class" afterPath="$PROJECT_DIR$/../testselenium1/target/classes/MainClass.class" />
+      <change beforePath="$PROJECT_DIR$/../testselenium1/target/classes/MainClass.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../testselenium1/target/classes/Table.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -49,8 +110,8 @@
       <file leaf-file-name="MainClass.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+            <state relative-caret-position="695">
+              <caret line="44" column="23" lean-forward="true" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -118,6 +179,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,8 +219,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -304,14 +365,16 @@
       <workItem from="1513257308153" duration="2307000" />
       <workItem from="1513279960401" duration="7859000" />
       <workItem from="1513325848605" duration="5240000" />
+      <workItem from="1513596542415" duration="118000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15406000" />
+    <option name="totallyTimeSpent" value="15524000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -366,6 +429,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainClass.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
@@ -402,8 +483,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lidiabazhenova/MainClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        <state relative-caret-position="695">
+          <caret line="44" column="23" lean-forward="true" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
