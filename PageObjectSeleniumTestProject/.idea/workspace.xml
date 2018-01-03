@@ -2,82 +2,113 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6d356da-e854-45c1-bfa5-48d0b040d504" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__cglib_cglib_nodep_3_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__com_codeborne_phantomjsdriver_1_3_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__io_netty_netty_3_5_7_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_20.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_23.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_23.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_23.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_2_15_v20160210.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_2_15_v20160210.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_2_15_v20160210.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_2_15_v20160210.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_2_15_v20160210.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/DynamicLinks.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/src/main/java/com/lidiabazhenova/Exerc.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__cglib_cglib_nodep_3_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__com_codeborne_phantomjsdriver_1_3_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__io_netty_netty_3_5_7_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_20.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_23.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_23.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_23.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_2_15_v20160210.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_2_15_v20160210.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_2_15_v20160210.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_2_15_v20160210.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_2_15_v20160210.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/MakeMyTripCalendar.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/src/main/java/com/lidiabazhenova/MakeMyTripCalendar.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ValidationElements/src/main/java/com/lidiabazhenova/Calendar.java" />
+      <change beforePath="$PROJECT_DIR$/../HtmlUnitExample/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../HtmlUnitExample/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lidiabazhenova/LoginPage.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lidiabazhenova/MainClass.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lidiabazhenova/MainPage.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lidiabazhenova/SignUpPage.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/01_08_12.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/01_08_15.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/02_45_35.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/02_47_17.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/02_48_46.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/02_53_45.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/02_57_47.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/03_03_49.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/03_04_42.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/03_07_19.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/03_09_48.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/03_10_48.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/03_12_02.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/03_12_52.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/03_18_48.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/03_21_03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/03_24_11.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/03_26_22.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/03_27_18.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/03_33_32.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/03_34_41.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/03_36_11.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/03_40_47.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/03_41_43.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/03_42_28.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/03_43_14.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/03_43_51.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/03_45_59.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/03_47_51.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/03_48_39.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/03_50_40.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/03_55_19.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/03_56_08.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/03_58_12.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/04_00_30.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/04_02_08.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/04_03_05.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/04_03_51.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/04_07_55.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/04_21_18.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/04_22_48.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/04_23_33.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/04_30_28.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/05_12_41.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/05_14_25.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/05_15_23.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/10_21_32.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/10_21_39.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/10_40_09.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/11_21_55.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/11_25_44.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/11_26_55.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/11_27_39.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/11_27_47.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/11_31_47.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/11_34_57.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/11_35_51.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/11_43_31.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/11_43_52.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/11_44_58.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/12_47_06.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/12_47_10.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/12_47_46.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/12_47_49.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/code.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/screenshots1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../ValidationElements/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ValidationElements/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../ValidationElements/src/main/java/com/lidiabazhenova/MainClass.java" afterPath="$PROJECT_DIR$/../ValidationElements/src/main/java/com/lidiabazhenova/MainClass.java" />
+      <change beforePath="$PROJECT_DIR$/../ValidationElements/target/classes/com/lidiabazhenova/MainClass.class" afterPath="$PROJECT_DIR$/../ValidationElements/target/classes/com/lidiabazhenova/MainClass.class" />
+      <change beforePath="$PROJECT_DIR$/../dificultActions/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../dificultActions/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../exampleOpenFile/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../exampleOpenFile/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/../testselenium1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../testselenium1/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../testselenium1/phantomjsdriver.log" afterPath="$PROJECT_DIR$/../testselenium1/phantomjsdriver.log" />
       <change beforePath="$PROJECT_DIR$/../testselenium1/src/main/java/MainClass.java" afterPath="$PROJECT_DIR$/../testselenium1/src/main/java/MainClass.java" />
-      <change beforePath="$PROJECT_DIR$/../testselenium1/target/classes/MainClass.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../testselenium1/target/classes/Table.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -98,8 +129,8 @@
       <file leaf-file-name="SignUpPageTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/lidiabazhenova/SignUpPageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1197">
-              <caret line="63" column="12" lean-forward="false" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
+            <state relative-caret-position="84">
+              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -107,14 +138,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginPageTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/lidiabazhenova/LoginPageTest.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="378">
+              <caret line="18" column="20" lean-forward="false" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SignUpPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/lidiabazhenova/page/SignUpPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="987">
+              <caret line="51" column="20" lean-forward="false" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/lidiabazhenova/page/MainPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="47" column="29" lean-forward="false" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="29" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -122,25 +171,19 @@
       <file leaf-file-name="AbstractSeleniumTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/lidiabazhenova/AbstractSeleniumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="588">
-              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#683#684#0" expanded="true" />
-                <element signature="e#712#713#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="441">
+              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainPageTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/lidiabazhenova/MainPageTest.java">
+      <file leaf-file-name="LoginPageTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/lidiabazhenova/LoginPageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="483">
+              <caret line="25" column="48" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="48" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -193,9 +236,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1086" />
-    <option name="y" value="27" />
-    <option name="width" value="825" />
+    <option name="x" value="789" />
+    <option name="y" value="26" />
+    <option name="width" value="1047" />
     <option name="height" value="921" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -214,10 +257,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -264,6 +306,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -273,7 +316,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ValidationElements" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -294,7 +337,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LoginPageTest">
+  <component name="RunManager" selected="JUnit.com.lidiabazhenova in PageObjectSeleniumTestProject">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -510,8 +553,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.LoginPageTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.com.lidiabazhenova in PageObjectSeleniumTestProject" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.com.lidiabazhenova in PageObjectSeleniumTestProject" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.LoginPageTest" />
         <item index="2" class="java.lang.String" itemvalue="JUnit.LoginPageTest.loginWithEmptyFieldsTest" />
         <item index="3" class="java.lang.String" itemvalue="JUnit.SignUpPageTest" />
         <item index="4" class="java.lang.String" itemvalue="JUnit.LoginPageTest.loginWithValidFieldsTest" />
@@ -534,17 +577,17 @@
       <workItem from="1513365999786" duration="19487000" />
       <workItem from="1513595546600" duration="15000" />
       <workItem from="1513596382584" duration="96000" />
+      <workItem from="1513689566151" duration="957000" />
+      <workItem from="1513694741549" duration="942000" />
+      <workItem from="1513839821363" duration="4583000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LoginPageTest - 2017.12.18 at 12h 25m 07s.xml">
-      <configuration name="LoginPageTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LoginPageTest - 2017.12.18 at 12h 26m 25s.xml">
-      <configuration name="LoginPageTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="LoginPageTest - 2017.12.18 at 14h 27m 48s.xml">
+      <configuration name="LoginPageTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginPageTest - 2017.12.19 at 16h 27m 58s.xml">
       <configuration name="LoginPageTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="LoginPageTest_loginWithEmptyFieldsTest - 2017.12.18 at 13h 02m 55s.xml">
@@ -568,16 +611,19 @@
     <history-entry file="com_lidiabazhenova_in_PageObjectSeleniumTestProject - 2017.12.18 at 13h 06m 52s.xml">
       <configuration name="com.lidiabazhenova in PageObjectSeleniumTestProject" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="com_lidiabazhenova_in_PageObjectSeleniumTestProject - 2017.12.19 at 16h 30m 54s.xml">
+      <configuration name="com.lidiabazhenova in PageObjectSeleniumTestProject" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19598000" />
+    <option name="totallyTimeSpent" value="26080000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -588,7 +634,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" x="568" y="60" width="319" height="624" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25052083" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" x="568" y="60" width="319" height="624" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -601,6 +647,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -651,43 +698,19 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/com/lidiabazhenova/SignUpPageTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1197">
-          <caret line="63" column="12" lean-forward="false" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
+        <state relative-caret-position="42">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/lidiabazhenova/LoginPageTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lidiabazhenova/page/SignUpPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/lidiabazhenova/MainPageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/lidiabazhenova/AbstractSeleniumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#683#684#0" expanded="true" />
-            <element signature="e#712#713#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1260">
+          <caret line="64" column="5" lean-forward="false" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -705,9 +728,79 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lidiabazhenova/MainPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lidiabazhenova/AbstractSeleniumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lidiabazhenova/SignUpPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1197">
+          <caret line="63" column="12" lean-forward="false" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lidiabazhenova/LoginPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lidiabazhenova/MainPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lidiabazhenova/AbstractSeleniumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lidiabazhenova/SignUpPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1197">
+          <caret line="63" column="12" lean-forward="false" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lidiabazhenova/LoginPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -716,7 +809,7 @@
         <state relative-caret-position="63">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -725,18 +818,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="19" column="71" lean-forward="true" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#683#684#0" expanded="true" />
-            <element signature="e#712#713#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="21" lean-forward="false" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -805,48 +886,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/lidiabazhenova/page/MainPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="38" lean-forward="true" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/lidiabazhenova/page/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="69" column="5" lean-forward="false" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
-          <folding>
-            <element signature="e#1526#1527#0" expanded="false" />
-            <element signature="e#1566#1567#0" expanded="false" />
-            <element signature="e#1611#1612#0" expanded="false" />
-            <element signature="e#1662#1663#0" expanded="false" />
-            <element signature="e#1698#1699#0" expanded="false" />
-            <element signature="e#1736#1737#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/lidiabazhenova/page/SignUpPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-          <folding>
-            <element signature="e#2030#2031#0" expanded="false" />
-            <element signature="e#2070#2071#0" expanded="false" />
-            <element signature="e#2110#2111#0" expanded="false" />
-            <element signature="e#2152#2153#0" expanded="false" />
-            <element signature="e#2196#2197#0" expanded="false" />
-            <element signature="e#2242#2243#0" expanded="false" />
-            <element signature="e#2287#2288#0" expanded="false" />
-            <element signature="e#2334#2335#0" expanded="false" />
-            <element signature="e#2382#2383#0" expanded="false" />
-            <element signature="e#2432#2433#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -854,45 +893,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/lidiabazhenova/SignUpPageTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lidiabazhenova/page/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1197">
-          <caret line="63" column="12" lean-forward="false" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="808">
+          <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/lidiabazhenova/MainPageTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="567">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lidiabazhenova/SignUpPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lidiabazhenova/page/SignUpPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="987">
+          <caret line="51" column="20" lean-forward="false" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/lidiabazhenova/LoginPageTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="483">
+          <caret line="25" column="48" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="20" lean-forward="false" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lidiabazhenova/page/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="47" column="29" lean-forward="false" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/lidiabazhenova/AbstractSeleniumTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#683#684#0" expanded="true" />
-            <element signature="e#712#713#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="441">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

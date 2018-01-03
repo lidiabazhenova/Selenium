@@ -20,12 +20,11 @@ public class MainClass {
     private static WebDriver driver;
 
     public static void main(String[] args) {
-        System.setProperty("webdriver.gecko.driver", "C:\\projects\\Selenium\\testselenium1\\drivers\\geckodriver.exe");
-        System.setProperty("phantomjs.binary.path", "C:\\projects\\Selenium\\testselenium1\\drivers\\phantomjs.exe");
+      //  System.setProperty("webdriver.gecko.driver", "C:\\projects\\Selenium\\testselenium1\\drivers\\geckodriver.exe");
+      //  System.setProperty("phantomjs.binary.path", "C:\\projects\\Selenium\\testselenium1\\drivers\\phantomjs.exe");
 
-        //driver = new FirefoxDriver();
-        driver = new PhantomJSDriver();
-
+        driver = new FirefoxDriver();
+       // driver = new PhantomJSDriver();
 
         driver.manage().timeouts().implicitlyWait(17, TimeUnit.SECONDS);
 //        driver.manage().window().setSize(new Dimension(900, 700));

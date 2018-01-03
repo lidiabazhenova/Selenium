@@ -16,8 +16,6 @@ public class MainClass {
 
     public static void main(String[] args) throws InterruptedException {
 
-        System.setProperty("webdriver.gecko.driver", "C:\\projects\\Selenium\\ValidationElements\\drivers\\geckodriver.exe");
-        System.setProperty("webdriver.chrome.driver", "C:\\projects\\Selenium\\ValidationElements\\drivers\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
 
         driver.manage().timeouts().implicitlyWait(17, TimeUnit.SECONDS);
@@ -29,8 +27,9 @@ public class MainClass {
         WebElement dateSelection = driver.findElement(By.xpath(".//*[@id='dateRange-from']"));
         dateSelection.click();
         wait = (new WebDriverWait(driver, 20));
-        wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(".//*[@id='ui-datepicker-div']/div[1]/table/tbody/tr[3]/td[7]/a")));
-        WebElement d = driver.findElement(By.xpath(".//*[@id='ui-datepicker-div']/div[1]/table/tbody/tr[3]/td[7]/a"));
+        ////*[@id="ui-datepicker-div"]/div[1]/table/tbody/tr[4]/td[7]/a
+        wait.until(ExpectedConditions.elementToBeClickable(By.xpath(".//*[@id='ui-datepicker-div']/div[1]/table/tbody/tr[4]/td[7]/a")));
+        WebElement d = driver.findElement(By.xpath(".//*[@id='ui-datepicker-div']/div[1]/table/tbody/tr[4]/td[7]/a"));
         d.click();
 //        WebDriver driver = new FirefoxDriver();
 //        driver.manage().timeouts().implicitlyWait(17, TimeUnit.SECONDS);
@@ -41,7 +40,7 @@ public class MainClass {
 //
 //
 ////        wait = (new WebDriverWait(driver, 20));
-////        wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(".//*[@id='ui-datepicker-div']/div[1]/table/tbody/tr[3]/td[7]/a")));
+////        wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(".//*[@id='ui-datepicker-div']/div[1]/table/tbody/tr[4]/td[7]/a")));
 //        System.out.println(driver.findElement(By.xpath(".//*[@id='hp-widget__depart']")).isDisplayed());
 //
 ////driver.findElement(By.xpath(".//*[@id='multi_city_button']/span")).click();
@@ -50,7 +49,7 @@ public class MainClass {
 //
 //        driver.findElement(By.xpath(".//*[@id='hp-widget__depart']")).click();
 //Thread.sleep(10000);
-//       // System.out.println(driver.findElement(By.xpath(".//*[@id='dp1513328330722']/div/div[1]/table/tbody/tr[3]/td[7]/a")));
+//       // System.out.println(driver.findElement(By.xpath(".//*[@id='dp1513328330722']/div/div[1]/table/tbody/tr[4]/td[7]/a")));
 //
 
 
