@@ -7,7 +7,7 @@ import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-//lectures 88-94 Webserver
+//lectures 88-94 WebServar
 public class Main {
 
     public static void main(String[] args) {
@@ -25,11 +25,16 @@ public class Main {
 
         //Site has changed. There is no element with id='recaptcha-anchor
 
-        int number = findFrameNumber(driver, By.xpath(".//*[@id='recaptcha-anchor']/div[5]"));
+        try {
+            int number = findFrameNumber(driver, By.xpath(".//*[@id='recaptcha-anchor']/div[5]"));
 
-        driver.switchTo().frame(number);
+            driver.switchTo().frame(number);
 
-        driver.findElement(By.xpath(".//*[@id='recaptcha-anchor']/div[5]")).click();
+            driver.findElement(By.xpath(".//*[@id='recaptcha-anchor']/div[5]")).click();
+        }
+        catch (Exception e) {
+           // screenshot
+        }
     }
 
 
