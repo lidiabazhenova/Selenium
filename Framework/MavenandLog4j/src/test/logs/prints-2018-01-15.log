@@ -1,0 +1,4 @@
+12:29:10.522 [main] DEBUG alpha.Demo - I've clicked on the button
+12:29:10.542 [main] INFO  alpha.Demo - button is displayed
+12:29:10.542 [main] ERROR alpha.Demo - button is not displayed
+12:29:10.542 [main] FATAL alpha.Demo - button is misssing

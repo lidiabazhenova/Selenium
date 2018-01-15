@@ -1,13 +1,15 @@
 package com.lidiabazhenova;
 
+import com.lidiabazhenova.listener.CustomRunner;
 import com.lidiabazhenova.page.SignUpPage;
 import org.junit.*;
+import org.junit.runner.RunWith;
 import org.openqa.selenium.By;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
 import static org.junit.Assert.*;
-
+@RunWith(CustomRunner.class)
 public class SignUpPageTest extends AbstractSeleniumTest {
 
     private SignUpPage signUpPage;
