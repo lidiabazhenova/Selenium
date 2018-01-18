@@ -1,0 +1,6 @@
+15:50:18.103 [main] INFO  com.lidiabazhenova.HomePageTest - navigated to Home page
+15:50:28.875 [main] INFO  com.lidiabazhenova.ValidationTitle - driver is initialised
+15:50:35.850 [main] INFO  com.lidiabazhenova.ValidationTitle - navigated to Home page
+15:50:35.959 [main] INFO  com.lidiabazhenova.ValidationTitle - successfuly validated text
+15:50:40.868 [main] INFO  com.lidiabazhenova.ValidationNavBar - driver is initialised
+15:50:46.851 [main] INFO  com.lidiabazhenova.ValidationNavBar - navigated to Home page

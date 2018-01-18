@@ -3,3 +3,7 @@
 12:28:07.607 [main] INFO  alpha.Demo - button is displayed
 12:28:07.607 [main] ERROR alpha.Demo - button is not displayed
 12:28:07.607 [main] FATAL alpha.Demo - button is misssing
+15:31:16.545 [main] DEBUG alpha.Demo - I've clicked on the button
+15:31:16.552 [main] INFO  alpha.Demo - button is displayed
+15:31:16.553 [main] ERROR alpha.Demo - button is not displayed
+15:31:16.553 [main] FATAL alpha.Demo - button is misssing
