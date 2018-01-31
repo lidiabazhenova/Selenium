@@ -11,6 +11,7 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
+import java.util.Calendar;
 import java.util.Date;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
@@ -40,8 +41,10 @@ public class Base {
 
     public void getScreenshot(String result) {
         Date dateNow = new Date();
+        Calendar calendar=Calendar.getInstance();
         SimpleDateFormat format = new SimpleDateFormat("hh_mm_ss");
-        String filename = format.format(dateNow) + result + ".png";
+        //String filename = format.format(dateNow) + result + ".png";
+        String filename = format.format(calendar.getTime()) + result + ".png";
 
         File screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 

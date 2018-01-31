@@ -2,120 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00ba9c8e-7b3a-4233-b49c-2a484379d3ae" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__cglib_cglib_nodep_3_2_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__com_codeborne_phantomjsdriver_1_3_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__io_netty_netty_3_5_7_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_20.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_2_15_v20160210.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_2_15_v20160210.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_2_15_v20160210.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_2_15_v20160210.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_2_15_v20160210.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/DynamicLinks.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../DynamicLinks/src/main/java/com/lidiabazhenova/Exerc.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__cglib_cglib_nodep_3_2_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__com_codeborne_phantomjsdriver_1_3_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__io_netty_netty_3_5_7_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_20.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_2_15_v20160210.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_2_15_v20160210.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_2_15_v20160210.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_2_15_v20160210.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_2_15_v20160210.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/MakeMyTripCalendar.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/src/main/java/com/lidiabazhenova/MakeMyTripCalendar.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../ValidationElements/src/main/java/com/lidiabazhenova/Calendar.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../framesWaitsExceptions/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../framesWaitsExceptions/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../framesWaitsExceptions/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../framesWaitsExceptions/framesWaitsExceptions.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../framesWaitsExceptions/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Работа с окнами и вкладками браузера/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/../HtmlUnitExample/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../HtmlUnitExample/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Framework/FrameworkProject/src/test/java/com/lidiabazhenova/Base.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Framework/FrameworkProject/src/test/java/com/lidiabazhenova/HomePageTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Framework/FrameworkProject/src/test/java/com/lidiabazhenova/Listeners.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Framework/FrameworkProject/src/test/java/com/lidiabazhenova/ValidationNavBar.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Framework/FrameworkProject/src/test/java/com/lidiabazhenova/ValidationTitle.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Framework/FrameworkProject/src/test/java/com/lidiabazhenova/pageObjects/LandingPage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Framework/FrameworkProject/src/test/java/com/lidiabazhenova/pageObjects/LoginPage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Framework/FrameworkProject/src/test/resourses/data.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Framework/FrameworkProject/src/test/resourses/log4j2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Framework/FrameworkProject/testNG.xml" />
+      <change beforePath="$PROJECT_DIR$/../Framework/MavenandLog4j/src/test/logs/prints.log" afterPath="$PROJECT_DIR$/../Framework/MavenandLog4j/src/test/logs/prints.log" />
+      <change beforePath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../MakeMyTripCalendar/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../PageObjectSeleniumTestProject/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../ValidationElements/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ValidationElements/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../ValidationElements/src/main/java/com/lidiabazhenova/MainClass.java" afterPath="$PROJECT_DIR$/../ValidationElements/src/main/java/com/lidiabazhenova/MainClass.java" />
-      <change beforePath="$PROJECT_DIR$/../ValidationElements/target/classes/com/lidiabazhenova/MainClass.class" afterPath="$PROJECT_DIR$/../ValidationElements/target/classes/com/lidiabazhenova/MainClass.class" />
       <change beforePath="$PROJECT_DIR$/../dificultActions/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../dificultActions/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../exampleOpenFile/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../exampleOpenFile/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../dificultActions/src/main/java/com/lidiabazhenova/MainClass.java" afterPath="$PROJECT_DIR$/../dificultActions/src/main/java/com/lidiabazhenova/MainClass.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MainClass.java" afterPath="$PROJECT_DIR$/src/main/java/MainClass.java" />
-      <change beforePath="$PROJECT_DIR$/../Работа с окнами и вкладками браузера/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Работа с окнами и вкладками браузера/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -131,8 +33,8 @@
       <file leaf-file-name="MainClass.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/MainClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="436">
+              <caret line="191" column="9" lean-forward="false" selection-start-line="181" selection-start-column="8" selection-end-line="191" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -192,9 +94,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="789" />
-    <option name="y" value="26" />
-    <option name="width" value="1047" />
+    <option name="x" value="115" />
+    <option name="y" value="13" />
+    <option name="width" value="1578" />
     <option name="height" value="921" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -214,8 +116,6 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -250,6 +150,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -431,11 +333,12 @@
       <workItem from="1513937092856" duration="1153000" />
       <workItem from="1514978076956" duration="137000" />
       <workItem from="1514983786452" duration="56000" />
+      <workItem from="1516277417392" duration="664000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99749000" />
+    <option name="totallyTimeSpent" value="100413000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -448,8 +351,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27561837" sideWeight="0.4893401" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3183315" sideWeight="0.5106599" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3183315" sideWeight="0.5106599" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -459,8 +362,8 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39795917" sideWeight="0.63857865" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39795917" sideWeight="0.63857865" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -923,8 +826,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/MainClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="436">
+          <caret line="191" column="9" lean-forward="false" selection-start-line="181" selection-start-column="8" selection-end-line="191" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

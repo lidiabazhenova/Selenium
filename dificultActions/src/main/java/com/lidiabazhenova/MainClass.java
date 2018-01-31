@@ -26,6 +26,7 @@ public class MainClass {
         driver.get("https://www.ebay.com");
 
         driver.findElement(By.xpath("//*[@id=\"HomepageOverlay14374ModalClose\"]/img")).click();
+        By.xpath("//tr[@role='list']//a[text()='Электроника']");
 
         WebElement link = driver.findElement(By.xpath("//tr[@role='list']//a[text()='Электроника']"));
         WebElement element = driver.findElement(By.xpath("//tr[@role='list']//a[text()='Электроника']"));
